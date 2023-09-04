@@ -2,22 +2,24 @@
     display: flex;
     justify-content: space-around;
     font-size: 25px;
-    background-color: lightpink;
-    border-radius: 10px;
-    box-shadow: 5px 5px 2px;
+    background-color:white;
+    border-radius: 1px;
+    box-shadow: 5px 5px ;
+    margin: 15px;
 }
 summary{
     font-size: 20px;
-    font-family: cursive;  
+    font-family: roboto;  
 }
 details{
     margin: 20px;
-    background-color: lightslategray;
+    background-color: aquamarine;
     border-radius: 10px;
 }
 .q_display{
-    color: mediumvioletred;
-    font-style: normal;
+    color:black;
+    font-style: bold
+    margin-top:50px;
 }
 .disp_ans{
     margin: 15px;
@@ -28,8 +30,5 @@ button{
     display: flex;
     flex-direction: row;
     margin: 20px;
-    background-color: coral;
+    background-color:grey;
 }
-/* #answer1,#answer2,#answer3,#answer4,#answer5,#answer6,#answer7,#answer8{
-    background-color: olivedrab;
-} */
